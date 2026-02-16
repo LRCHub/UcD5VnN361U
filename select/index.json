@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "風にきえないで (\"True\" Mix)",
+  "base_artist": "L'Arc～en～Ciel",
+  "createdAt": "2026-02-16T15:49:36.284286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風にきえないで (“True” Mix)",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/01_風にきえないで_(“True”_Mix)_L’Arc〜en〜Ciel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風にきえないで (“True” Mix)",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": false,
+      "path": "select/02_風にきえないで_(“True”_Mix)_L'Arc-en-Ciel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風にきえないで",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/03_風にきえないで_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風にきえないで",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/04_風にきえないで_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風にきえないで (\"True\" Mix) - Kazeni Kienaide (\"True\" Mix)",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/05_風にきえないで_(_True__Mix)_-_Kazeni_Kienaide_(_True__Mix)_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風にきえないで (\"True\" Mix)",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/06_風にきえないで_(_True__Mix)_L'Arc〜en〜Ciel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風にきえないで",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/07_風にきえないで_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風にきえないで (\"True\" Mix) - Remastered 2022",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/08_風にきえないで_(_True__Mix)_-_Remastered_2022_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "風にきえないで (\"True\" Mix)",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": false,
+      "path": "select/09_風にきえないで_(_True__Mix)_L'Arc-en-Ciel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "風にきえないで('True'Mix)",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/10_風にきえないで('True'Mix)_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "風にきえないで",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/11_風にきえないで_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "風にきえないで (\"True\" Mix)",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": false,
+      "path": "select/12_風にきえないで_(_True__Mix)_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "風にきえないで",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/13_風にきえないで_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "風にきえないで (\"True\" Mix) - Remastered 2022",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/14_風にきえないで_(_True__Mix)_-_Remastered_2022_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "風にきえないで - Kazeni Kienaide",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/15_風にきえないで_-_Kazeni_Kienaide_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風にきえないで",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_風にきえないで_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
